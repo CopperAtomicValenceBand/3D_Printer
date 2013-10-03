@@ -1,0 +1,34 @@
+Prompt: "Cancel Print?"
+Input Cancel$
+Buffer Cancel$
+PRINT
+
+rem
+rem
+rem
+rem
+rem
+rem
+rem
+rem
+rem
+*
+*
+*
+*
+*
+*
+Goto 1
+
+
+Poke F97E
+
+Peak to Peak Detector connect to DC clamper
+
+Display Error Message
+
+Extort User 
+
+Amount: $5000.00
+
+END
